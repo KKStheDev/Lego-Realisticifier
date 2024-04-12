@@ -5,7 +5,7 @@ Lego Realisticifier is a Blender Shortcut tool for Highly Detailed LEGO Realisti
 **With Only ONE Click, You can make realistic LEGO Render too!**
 
 # Download⬇️:
-<a href="https://github.com/KKStheDev/Lego-Realisticifier/releases">**Click Here to Download**</a>
+<a href="https://github.com/KKStheDev/Lego-Realisticifier/releases/download/blender/Lego_Realisticifier_1.0.0.zip">**Click Here to Download**</a>
 
 <a href="https://github.com/KKStheDev/Lego-Realisticifier/issues">Please Submit Bugs, Ideas, Suggestions Here!</a>
 
