@@ -69,17 +69,7 @@ class ButtonOperatorDustyAir(bpy.types.Operator):
             )
             
         return {'FINISHED'}
-    
-class ButtonOperator2(bpy.types.Operator):
-    """Material Realisticify"""
-    bl_idname = "random.2"
-    bl_label = "Simple Random Operator2"
 
-    def execute(self, context):
-        print("test")
-        
-        return {'FINISHED'}
-    
 class ButtonOperator3(bpy.types.Operator):
     """Hide on Viewport"""
     bl_idname = "random.3"
