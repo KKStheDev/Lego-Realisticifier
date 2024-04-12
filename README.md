@@ -18,3 +18,5 @@ And, if you find this interesting, please hit that star button on the top right!
 - Import Dust to Selected Objects
 - Dust Settings
 - Adding Dust to Air
+![i've made a addon render kks](https://github.com/KKStheDev/Lego-Realisticifier/assets/164740326/08a46989-5493-49ad-ada9-ff334029fbce)
+
