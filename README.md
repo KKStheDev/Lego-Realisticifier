@@ -11,6 +11,9 @@ Lego Realisticifier is a Blender Shortcut tool for Highly Detailed LEGO Realisti
 
 And, if you find this interesting, please hit that star button on the top right!
 
+# Warning⚠️
+**This might slow or crash your computer**
+
 # Features▶️:
 - Import Dust to Selected Objects
 - Dust Settings
