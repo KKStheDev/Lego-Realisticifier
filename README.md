@@ -20,8 +20,9 @@ An Blender Shortcut tool for Highly Detailed LEGO Realistic renders.
 
 ## Showcase
 
-![screenshot](https://github.com/KKStheDev/Lego-Realisticifier/assets/164740326/41db269e-2636-4822-a2ed-89f17ff22bd8)
-![THE UNTHINKABLE](https://github.com/KKStheDev/Lego-Realisticifier/assets/164740326/d5883778-d910-4a9c-8998-5f564e8a11d8)
+![screenshot](https://github.com/KKStheDev/Lego-Realisticifier/assets/164740326/41db269e-2636-4822-a2ed-89f17ff22bd8)]
+![スクリーンショット 2024-04-15 174925](https://github.com/KKStheDev/Lego-Realisticifier/assets/164740326/7e5102f1-f605-4d6b-8855-b9d47bc1ab0c)
+
 
 **With Only ONE Click, You can make realistic LEGO Render too!**
 
