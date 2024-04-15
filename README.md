@@ -1,6 +1,6 @@
 <div align="center"><p>
     <a href="https://github.com/KKStheDev/Lego-Realisticifier/releases/latest">
-      <img alt="Latest Release" src="" />
+      <img alt="Latest Release" src="https://img.shields.io/github/v/release/KKStheDev/Lego-Realisticifier?style=for-the-badge&logo=starship&color=fe7d37&logoColor=D9E0EE&labelColor=302D41" />
     </a>
     <a href="https://github.com/KKStheDev/Lego-Realisticifier/blob/main/LICENSE">
       <img alt="License" src="https://img.shields.io/github/license/KKStheDev/Lego-Realisticifier?style=for-the-badge&logo=gitbook&color=fe7d37&logoColor=D9E0EE&labelColor=302D41" />
