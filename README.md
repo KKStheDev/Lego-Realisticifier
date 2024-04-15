@@ -11,8 +11,11 @@
 
 An Blender Shortcut tool for Highly Detailed LEGO Realistic renders.
 
-**[<kbd> <br> Install <br> </kbd>][Install]** 
-**[<kbd> <br> Issues <br> </kbd>][Troubleshoot]** 
+[Download]: https://github.com/KKStheDev/Lego-Realisticifier/releases/download/blender/Lego_Realisticifier_1.0.0.zip
+[Issues]: https://github.com/KKStheDev/Lego-Realisticifier/issues
+
+**[<kbd> <br> Install <br> </kbd>][Download]** 
+**[<kbd> <br> Issues <br> </kbd>][Issues]** 
 
 
 ## Showcase
@@ -24,6 +27,3 @@ An Blender Shortcut tool for Highly Detailed LEGO Realistic renders.
 
 ## Warning
 **This might slow or crash your computer**
-
-[Install]: https://github.com/KKStheDev/Lego-Realisticifier/releases/download/blender/Lego_Realisticifier_1.0.0.zip
-[Issues]: https://github.com/KKStheDev/Lego-Realisticifier/issues
